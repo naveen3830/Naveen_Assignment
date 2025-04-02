@@ -1,0 +1,13 @@
+numpy
+pandas
+sqlalchemy
+scikit-learn
+matplotlib
+seaborn
+requests
+pymc_marketing 
+jax 
+jaxlib 
+numpyro
+statsmodels
+scipy
